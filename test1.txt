@@ -1,10 +1,6 @@
 
 This is line two of test file
-B
 
-A
-A
-B
-C
-C
 This Test1
+
+Testing build tigger.

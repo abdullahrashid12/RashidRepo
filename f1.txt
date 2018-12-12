@@ -1,5 +1,2 @@
 This is new file my
-<<<<<<< HEAD
 Rashid Made commit so it would trigger new build
-=======
->>>>>>> 5ab2df5... adding two file
